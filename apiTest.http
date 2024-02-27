@@ -1,0 +1,13 @@
+GET localhost:8080/customer/160
+###
+
+POST localhost:8080/customer
+Content-Type: application/json
+
+{
+  "firstName": "George",
+  "lastName": "Washington",
+  "applicationStatus": "",
+  "imageUrl": ""
+}
+

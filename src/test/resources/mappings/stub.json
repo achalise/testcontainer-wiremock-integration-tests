@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/photos/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+      {
+        "albumId": 12,
+        "id": 551,
+        "title": "eveniet debitis nihil",
+        "url": "https://via.placeholder.com/600/21e334",
+        "thumbnailUrl": "https://via.placeholder.com/150/21e334"
+      },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
